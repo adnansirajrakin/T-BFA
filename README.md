@@ -1,3 +1,8 @@
+## T-BFA: 
+
+Accpeted in IEEE Transactions on Pattern Analysis and Machine Intelligence PP(99):1-1
+DOI: 10.1109/TPAMI.2021.3112932
+
 This repository contains the code for Targeted Bit-Flip Attack (T-BFA). Link to the paper: https://arxiv.org/pdf/2007.12336.pdf More Details: https://dfan.engineering.asu.edu/ai-security/
 
 
